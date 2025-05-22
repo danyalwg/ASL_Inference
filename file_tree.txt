@@ -1,0 +1,28 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 8A81-33C1
+D:.
+|   file_tree.txt
+|   inference.py
+|   inference_results.txt
+|   pytorch_i3d.py
+|   streamlit_app.py
+|   videotransforms.py
+|   
++---data
+|   \---WLASL2000
+|           07068.mp4
+|           07069.mp4
+|           69241.mp4
+|           
++---models
+|   \---asl2000
+|           FINAL_nslt_2000_iters=5104_top1=32.48_top5=57.31_top10=66.31.ini
+|           FINAL_nslt_2000_iters=5104_top1=32.48_top5=57.31_top10=66.31.pt
+|           
++---preprocess
+|       wlasl_class_list.txt
+|       
+\---__pycache__
+        inference.cpython-310.pyc
+        pytorch_i3d.cpython-310.pyc
+        
