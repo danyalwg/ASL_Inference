@@ -78,7 +78,7 @@ pip3 install torch torchvision numpy opencv-python streamlit
 ## Downloading the Pretrained Model
 
 Download the compressed model archive from Google Drive:  
-- **Model**: [Google Drive Link Placeholder]  
+- **Model**: [[Google Drive Link Placeholder](https://drive.google.com/drive/folders/1uSNDrJtP1f0g553kKQMiCsj7fsyww-n_?usp=drive_link)]  
 
 Uncompress the archive into the `models/asl2000/` directory so you end up with:
 
@@ -140,5 +140,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or support, contact:  
-- **Client**: [Your Organization]  
-- **Maintainer**: Mr. Danyal — email@example.com  
+- **Maintainer**: Mr. Danyal — danyalwg@gmail.com  
